@@ -2,6 +2,8 @@
 ## Introduction
 Ce projet est un projet de **demonstration** à titre éducatif dans le cadre de la formation GRETA à Pau
 
-## Présentation du jeu 
+## Présentation du jeu
 ### Principe
 Principe du jeu à décrire ici
+###Participants
+Tous les membres de la formation.
