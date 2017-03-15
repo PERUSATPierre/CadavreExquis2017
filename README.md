@@ -9,3 +9,5 @@ Principe du jeu à décrire ici
 Tous les membres de la formation.
 ## Auteur
 ouiiiii c'est moi Peter non je n'ai pas changé .....
+## Remerciement
+Merci à toutes et à tous!!!
