@@ -7,3 +7,5 @@ Ce projet est un projet de **demonstration** à titre éducatif dans le cadre de
 Principe du jeu à décrire ici
 ###Participants
 Tous les membres de la formation.
+## Auteur
+ouiiiii c'est moi Peter non je n'ai pas changé .....
